@@ -1,0 +1,10 @@
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\bin\Debug\CSSMonitor.exe.config
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\bin\Debug\CSSMonitor.exe
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\bin\Debug\CSSMonitor.pdb
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\obj\Debug\CSSMonitor.csprojResolveAssemblyReference.cache
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\obj\Debug\CSSMonitor.Form1.resources
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\obj\Debug\CSSMonitor.Properties.Resources.resources
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\obj\Debug\CSSMonitor.csproj.GenerateResource.Cache
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\obj\Debug\CSSMonitor.csproj.CoreCompileInputs.cache
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\obj\Debug\CSSMonitor.exe
+c:\users\administrator.dell-pc\source\repos\CSSMonitor\CSSMonitor\obj\Debug\CSSMonitor.pdb
